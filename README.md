@@ -1,4 +1,4 @@
 ##Drawing Flutter app
 
 
-<img src="https://github.com/dikadk/Drawweee/blob/master/pic/pic1.png" width="300">![]()
+<img src="https://github.com/dikadk/Drawweee/blob/master/pics/pic1.png" width="300">![]()
